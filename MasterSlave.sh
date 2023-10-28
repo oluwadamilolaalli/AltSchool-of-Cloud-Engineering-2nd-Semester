@@ -42,9 +42,6 @@ EOF
 # Start and provision the servers
 vagrant up
 
-# SSH into the servers
-vagrant ssh Master_1
-source Bash-script.sh
 
 
 
