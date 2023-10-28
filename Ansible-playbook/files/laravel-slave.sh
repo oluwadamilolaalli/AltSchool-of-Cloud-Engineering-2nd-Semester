@@ -84,7 +84,7 @@ sudo chmod -R 775 /var/www/html/laravel/bootstrap/cache
 cat <<EOF > /etc/apache2/sites-available/laravel.conf
 <Virtual Host *:80>
     ServerAdmin admin@example.com
-    ServerName 192.168.20.10
+    ServerName 192.168.20.11
     DocumentRoot /var/www/html/laravel/public
 
     <Directory /var/www/html/laravel>
