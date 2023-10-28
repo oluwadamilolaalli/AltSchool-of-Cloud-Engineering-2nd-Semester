@@ -17,7 +17,6 @@ Vagrant.configure("2") do |config|
   end
 
 # Define the "Slave" server configuration
-cat <<EOF >> Vagrantfile
   config.vm.define "slave" do |slave|
 
     slave.vm.hostname = "slave-1"
