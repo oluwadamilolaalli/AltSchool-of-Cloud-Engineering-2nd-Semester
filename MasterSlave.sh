@@ -14,13 +14,7 @@ Vagrant.configure("2") do |config|
     sudo apt-get update && sudo apt-get upgrade -y
     sudo apt-get-install -y avahi-daemon libnss-mdns
     SHELL
-    node.vm.provider "virtualbox" do |vb|
-      vb.memory = 1024
-      vb.cpus = 2
-    end
   end
-end
-EOF
 
 # Define the "Slave" server configuration
 cat <<EOF >> Vagrantfile
@@ -33,11 +27,12 @@ cat <<EOF >> Vagrantfile
     sudo apt-get update && sudo apt-get upgrade -y
     sudo apt-get-install -y avahi-daemon libnss-mdns
     SHELL
+    end
     config.vm.provider "virtualbox" do |vb|
       vb.memory = 1024
       vb.cpus = 2
     end
-  end
+  
 end
 EOF
 
