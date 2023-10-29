@@ -73,6 +73,3 @@ Open laravel-slave.sh script with nano or vim.i used vim to open it and make sue
 
 ![image](https://github.com/oluwadamilolaalli/AltSchool-of-Cloud-Engineering-2nd-Semester/assets/118380013/3d5e24d2-88fa-4601-b51c-ee06e7634f92)
 
-![image](https://github.com/oluwadamilolaalli/AltSchool-of-Cloud-Engineering-2nd-Semester/assets/118380013/7d5035e2-866b-4594-a85b-40966a87a67d)
-
-
