@@ -5,8 +5,11 @@ DOCUMENTATION
 EXPLAINING WHAT THESE REPOSITORY IS ALL ABOUT
 
 1 LARAVEL
+
 2 LAMP STACK
+
 3 MASTER AND SLAVE
+
 4 ANSIBLE
 
 LARAVEL:  Laravel has useful built-in features like the Artisan command-line interface (CLI), native authentication and model-view-controller (MVC) architecture. These features make the framework easy to use and are the main reason for its popularity.
