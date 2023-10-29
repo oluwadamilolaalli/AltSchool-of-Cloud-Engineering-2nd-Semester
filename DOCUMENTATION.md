@@ -65,3 +65,11 @@ Must Have:
 Then.use vagrant ssh master to gain access to the machine
 Open laravel-slave.sh script with nano or vim.i used vim to open it and make suer that I check critically the three main conditions that will make the script to run perfectly. Which are;
 1 change  servername on apache2 configuration to ip address of master node. Which is 192.168.20.10
+
+![image](https://github.com/oluwadamilolaalli/AltSchool-of-Cloud-Engineering-2nd-Semester/assets/118380013/35c9799c-704d-4e2f-8ec8-85c275f667f4)
+
+![image](https://github.com/oluwadamilolaalli/AltSchool-of-Cloud-Engineering-2nd-Semester/assets/118380013/3d5e24d2-88fa-4601-b51c-ee06e7634f92)
+
+![image](https://github.com/oluwadamilolaalli/AltSchool-of-Cloud-Engineering-2nd-Semester/assets/118380013/7d5035e2-866b-4594-a85b-40966a87a67d)
+
+
